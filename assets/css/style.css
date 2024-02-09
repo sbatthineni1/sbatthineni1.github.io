@@ -833,9 +833,9 @@ a:hover {
 }
 
 .hero-icons {
-  max-height: 250px;
-  max-width: 250px;
-  width: 33.33%;
+  max-height: 350px;
+  max-width: 350px;
+  width: 25%;
   padding-top: 10px;
   padding-right: 30px;
   float: left;
